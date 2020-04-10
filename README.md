@@ -12,7 +12,8 @@ This is course repository for the Data Science Specialization Capstone Project o
 ### Course Dataset
 
 The training data is downloaded from below URL and used as the basis for most of the capstone.
-[Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
+
+* [Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
 
 ### Milestone Report>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
