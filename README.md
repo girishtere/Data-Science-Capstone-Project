@@ -10,6 +10,7 @@ April 12, 2020
 This is course repository for the Data Science Specialization Capstone Project offered through Coursera from Johns Hopkins University.
 
 ### Course Dataset
+
 The training data is downloaded from below URL and used as the basis for most of the capstone.
 [Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
 
